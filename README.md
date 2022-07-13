@@ -7,7 +7,7 @@ This code was used to get the 3rd place in the [5th Brazilian Competition on Kno
 
 Please check the [full paper](https://arxiv.org/abs/2201.07208) if you need any additional information.
 
-To run the code, you will need Python 3 and R and their dependencies. Please check the two jupyter notebooks that are in the **code**  folder. The images generated will be stored in the **diagrams** folder. 
+You will need Python 3 and R and their dependencies to run the codes. Please check the two Jupyter Notebooks that are in the ```/code``` folder. The images generated will be stored in the  ```/diagrams``` folder.
 
 
 ### Citation
