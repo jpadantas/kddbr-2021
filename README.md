@@ -14,7 +14,7 @@ To run the code, you will need Python 3 and R and their dependencies. Please che
 ```
 @article{dantas2021enhanced,
   title={Enhanced Self-Organizing Map Solution for the Traveling Salesman Problem},
-  author={Dantas, Joao and Costa, Andre N and Maximo, Marcos ROA and Yoneyama, Takashi},
+  author={Dantas, Joao P. A. and Costa, Andre N. and Maximo, Marcos R. O. A. and Yoneyama, Takashi},
   journal={arXiv preprint arXiv:2201.07208},
   year={2021}
 }
