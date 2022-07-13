@@ -5,8 +5,6 @@ Using an enhanced Self-Organizing Map method, we provided suboptimal solutions t
 
 Please check the [full paper](https://arxiv.org/abs/2201.07208) if you need any additional information.
 
-Feel free to cite this paper in ou
-
 To run the code, you will need Python 3 and R and their dependencies. Please check the two jupyter notebooks that are in the **code**  folder. The images generated will be stored in the **diagrams** folder. 
 
 
