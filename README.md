@@ -3,7 +3,7 @@
 
 Using an enhanced Self-Organizing Map method, we provided suboptimal solutions to the Traveling Salesman Problem. Besides, we employed hyperparameter tuning to identify the most critical features in the algorithm. All improvements in the benchmark work brought consistent results and may inspire future efforts to improve this algorithm and apply it to different problems.
 
-This code was used to get the 3rd place in the [5th Brazilian Competition on Knowledge Discovery in Databases (KDD-BR)](https://www.kaggle.com/c/kddbr-2021).
+This code was used to get 3rd place in the [5th Brazilian Competition on Knowledge Discovery in Databases (KDD-BR)](https://www.kaggle.com/c/kddbr-2021).
 
 Please check the [full paper](https://arxiv.org/abs/2201.07208) if you need any additional information.
 
