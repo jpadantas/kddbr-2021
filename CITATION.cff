@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Code for: Enhanced Self-Organizing Map Solution for the Traveling Salesman Problem"
+type: software
+authors:
+  - family-names: "Dantas"
+    given-names: "Joao P. A."
+    orcid: "https://orcid.org/0000-0003-0300-8027"
+  - family-names: "Costa"
+    given-names: "Andre N."
+  - family-names: "Maximo"
+    given-names: "Marcos R. O. A."
+  - family-names: "Yoneyama"
+    given-names: "Takashi"
+repository-code: "https://github.com/jpadantas/kddbr-2021"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  collection-title: "Anais do XVIII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC)"
+  title: "Enhanced Self-Organizing Map Solution for the Traveling Salesman Problem"
+  authors:
+    - family-names: "Dantas"
+      given-names: "Joao P. A."
+      orcid: "https://orcid.org/0000-0003-0300-8027"
+    - family-names: "Costa"
+      given-names: "Andre N."
+    - family-names: "Maximo"
+      given-names: "Marcos R. O. A."
+    - family-names: "Yoneyama"
+      given-names: "Takashi"
+  start: "799"
+  end: "802"
+  year: 2021
+  publisher:
+    name: "Sociedade Brasileira de Computação (SBC)"
+  doi: "10.5753/eniac.2021.18428"
+  url: "https://www.joaopadantas.com/publications/dantas2021enhanced/"
