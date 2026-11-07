@@ -14,11 +14,15 @@ You will need Python 3 and R and their dependencies to run the codes. Please che
 
 
 ### Citation
-```
-@article{dantas2021enhanced,
-  title={Enhanced Self-Organizing Map Solution for the Traveling Salesman Problem},
-  author={Dantas, Joao P. A. and Costa, Andre N. and Maximo, Marcos R. O. A. and Yoneyama, Takashi},
-  journal={arXiv preprint arXiv:2201.07208},
-  year={2021}
+```bibtex
+@inproceedings{dantas2021enhanced,
+  author = {Dantas, Joao P. A. and Costa, Andre N. and Maximo, Marcos R. O. A. and Yoneyama, Takashi},
+  title = {{Enhanced Self-Organizing Map Solution for the Traveling Salesman Problem}},
+  booktitle = {Anais do XVIII Encontro Nacional de Intelig\^{e}ncia Artificial e Computacional (ENIAC)},
+  year = {2021},
+  pages = {799--802},
+  publisher = {Sociedade Brasileira de Computa\c{c}\~{a}o (SBC)},
+  doi = {10.5753/eniac.2021.18428},
+  url = {https://doi.org/10.5753/eniac.2021.18428}
 }
 ```
